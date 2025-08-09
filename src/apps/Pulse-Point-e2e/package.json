@@ -1,0 +1,10 @@
+{
+  "name": "@src/Pulse-Point-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@src/Pulse-Point"
+    ]
+  }
+}
